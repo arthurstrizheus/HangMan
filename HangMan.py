@@ -1,6 +1,7 @@
 import string
 import sys
 import random
+
 #@Author Arthur Strizheus
 # Opening file containing 1,000 English words, reading it into a list.
 wordFile = open("hManWords.txt")
